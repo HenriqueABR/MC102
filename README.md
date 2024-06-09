@@ -1,0 +1,19 @@
+# Todos esses códigos referem-se a projetos realizados durante o curso de MC102 - Algoritmos e Programação de Computadores que fiz na Unicamp, durante minha graduação em Engenharia Química.
+# 
+# Nessa disciplina, aprendi como fazer algumas programações em Python, como:
+# 
+# Lab01: Operações básicas
+# Lab02: Utilização de condicionais (If, Else, Elif)
+# Lab03: Uso de diferentes tipos de números e como converte-los
+# Lab04: Uso de estruturas condicionais (While)
+# Lab05: Utilização de estruturas repetitivas (For)
+# Lab06: Utilização de listas e seus termos
+# Lab07: Criaçãao de ''Gráficos'' a partir de modelação de listas
+# Lab08: Listas e modificação de termos
+# Lab09: Análise letra a letra em listas
+# Lab10: Trabalho recessivo em cima de uma malha já definida
+# Lab11: Análise de áreas e modificação de malhas
+# Lab12: Análise de matriz bidimensional
+# Lab13: Desenvolvimento de método de análise iterativo
+# Lab14: Desenvolvimento de funções recursivas sob matriz bidimensional
+# Lab15: Desenvolvimento de funções recurvisas sob matriz tridimensional
